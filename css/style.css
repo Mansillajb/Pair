@@ -1,15 +1,20 @@
 p#call-to-action{
-	font-size: 2em;
+	font-size: 3em;
+	color: black;
 	font-family: serif;
 	text-align: center;
 	margin: 4em;
 }
 
-button#generate-madlib-btn{
+button#madlib-btn{
 	margin: 0 50%;
 }
 
 
-div .container{
+div#full{
 	background-image: url();
+	background-position: 50% 50%;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
 }
