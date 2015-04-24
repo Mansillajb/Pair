@@ -6,7 +6,7 @@ $(document).ready(function() {
 		var noun = /*$("#noun").val();*/ "rainbowRetractorBeam";
 		var adverb = $("#adverb").val();
 		var exclamation = $("#exclamation").val();
-		var madlib = "<strong>" + exclamation + " </strong> he said, as he <strong>" + adverb + "</strong> jumped on to his <strong>" + noun + "</strong> and <strong>" + verb + "</strong> into the sunset.";		
+		var madlib = "<strong>" + exclamation + " </strong> he said, as he <strong>" + adverb + "</strong> jumped on to his <strong>" + noun + "</strong> and flew <strong>" + verb + "</strong> into the sunset.";		
 		
 
 		$("#call-to-action").hide();
